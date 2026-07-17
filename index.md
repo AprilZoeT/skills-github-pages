@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+<h1>Barney's Blog</h1>
 ---
